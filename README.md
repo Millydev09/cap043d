@@ -1,1 +1,1 @@
-# cap043d
+Este programa tem a função de calcular a media 1, e caso a nota seja menor que 7, pede uma quinta nota e calcula a nota média, apresentando as notas com as suas respectivas mensagens de  aprovado e reprovado.
